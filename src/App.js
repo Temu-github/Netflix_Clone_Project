@@ -5,6 +5,8 @@ function App() {
   return (
     <div className="App">
       <h1>Netflix Project</h1>
+      <h1>Netflix-Clone Project</h1>
+
     </div>
   );
 }
